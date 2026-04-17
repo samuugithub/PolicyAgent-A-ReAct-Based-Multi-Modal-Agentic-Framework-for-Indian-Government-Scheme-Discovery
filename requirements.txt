@@ -1,0 +1,28 @@
+flask
+flask-cors
+python-dotenv
+werkzeug
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+faiss-cpu
+sentence-transformers
+torch
+groq
+rank_bm25
+keybert
+openpyxl
+pandas
+gTTS
+SpeechRecognition
+deep-translator
+pydub
+scipy
+numpy
+google-auth
+google-auth-oauthlib
+google-api-python-client
+# cross-encoder reranker (already pulled by sentence-transformers)
+# but listed explicitly for clarity:
+# sentence-transformers[cross-encoder]
